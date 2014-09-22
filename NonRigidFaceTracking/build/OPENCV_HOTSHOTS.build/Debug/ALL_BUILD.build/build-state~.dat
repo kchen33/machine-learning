@@ -1,0 +1,29 @@
+TALL_BUILD
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ALL_BUILD.build/Script-AC68BA94B9A64CF2ABEE18A8.sh
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ALL_BUILD.build/Script-AC68BA94B9A64CF2ABEE18A8.sh
+c0000000053DFED9E0000000000000128
+t1407184286
+s296
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfcc5c81e2590b941^52b7cb1e2590b941^---0#1#1#--18"Check dependencies36"DEDB322B-69DE-46B3-9CA5-3EA31A887753-
+
+CPhaseScriptExecution CMake\ Rules /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ALL_BUILD.build/Script-AC68BA94B9A64CF2ABEE18A8.sh
+s428877086.796640
+e428877086.818459
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ALL_BUILD.build/Script-AC68BA94B9A64CF2ABEE18A8.sh
+oecho ""
+o
+oecho Build\ all\ projects
+oBuild all projects
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'216"PhaseScriptExecution CMake\ Rules /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ALL_BUILD.build/Script-AC68BA94B9A64CF2ABEE18A8.sh603bcc1e2590b941^fd86d11e2590b941^-54"echo ""echo Build\ all\ projectsBuild all projects3(21%IDEActivityLogMessage2@8"echo ""-428877086#0#8#-0#-----2@26"echo Build\ all\ projects-428877086#9#26#-0#-----2@19"Build all projects-428877086#35#19#-0#-----0#0#1#--524"PhaseScriptExecution CMake\ Rules /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ALL_BUILD.build/Script-AC68BA94B9A64CF2ABEE18A8.sh    cd /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src    /bin/sh -c /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ALL_BUILD.build/Script-AC68BA94B9A64CF2ABEE18A8.sh36"1B6CCF6B-3AE9-4E61-B3CF-1FE2E7BBF97B-
+b5B54350B-3E26-44C3-82EA-7CDDFA007BD4
+

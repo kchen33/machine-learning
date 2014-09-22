@@ -1,0 +1,29 @@
+TZERO_CHECK
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ZERO_CHECK.build/Script-0BD5BACAF6E44D31920D7364.sh
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ZERO_CHECK.build/Script-0BD5BACAF6E44D31920D7364.sh
+c0000000053DFED9A0000000000000129
+t1407184282
+s297
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies166bb01a2590b941^7db3b11a2590b941^---0#1#1#--18"Check dependencies36"55276A3C-9E6D-46F7-AC51-7EBE8C0E9420-
+
+CPhaseScriptExecution CMake\ Rules /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ZERO_CHECK.build/Script-0BD5BACAF6E44D31920D7364.sh
+s428877082.697473
+e428877082.750978
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ZERO_CHECK.build/Script-0BD5BACAF6E44D31920D7364.sh
+oecho ""
+o
+omake -f /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/CMakeScripts/ReRunCMake.make
+omake[1]: `/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/CMakeFiles/cmake.check_cache' is up to date.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'217"PhaseScriptExecution CMake\ Rules /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ZERO_CHECK.build/Script-0BD5BACAF6E44D31920D7364.sh3a22b31a2590b941^8e40c01a2590b941^-309"echo ""make -f /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/CMakeScripts/ReRunCMake.makemake[1]: `/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/CMakeFiles/cmake.check_cache' is up to date.3(21%IDEActivityLogMessage2@8"echo ""-428877082#0#8#-0#-----2@141"make -f /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/CMakeScripts/ReRunCMake.make-428877082#9#141#-0#-----2@159"make[1]: `/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/CMakeFiles/cmake.check_cache' is up to date.-428877082#150#159#-0#-----0#0#1#--526"PhaseScriptExecution CMake\ Rules /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ZERO_CHECK.build/Script-0BD5BACAF6E44D31920D7364.sh    cd /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src    /bin/sh -c /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/OPENCV_HOTSHOTS.build/Debug/ZERO_CHECK.build/Script-0BD5BACAF6E44D31920D7364.sh36"8B14DEEC-73C1-4A3D-9D0C-8C8BC2D6C7FC-
+b147633A9-6F9A-4CD5-95F6-641E63E885E1
+

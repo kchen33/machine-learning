@@ -1,0 +1,339 @@
+Tft
+v6
+r1
+cCheck dependencies
+cCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/libft.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000053522F75000000000000044C
+t1397895029
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053522F7500000000000001DE
+t1397895029
+s478
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.o
+t1407184283
+s455144
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.o
+t1407184284
+s594556
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft.LinkFileList
+c0000000053DFED9A00000000000003D3
+t1407184282
+s979
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.o
+t1407184283
+s498680
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.o
+t1407184283
+s475100
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.o
+t1407184283
+s338636
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/libft.a
+t1407184284
+s2400120
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp
+c00000000538C6C0E0000000000001AC6
+t1401711630
+s6854
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.hpp
+c00000000538C6C0E0000000000000B8A
+t1401711630
+s2954
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp
+c00000000538C6C0E000000000000229C
+t1401711630
+s8860
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.hpp
+c00000000538C6C0E00000000000010DC
+t1401711630
+s4316
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft.hpp
+c00000000538C6C0E0000000000000736
+t1401711630
+s1846
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp
+c00000000538C6C0E0000000000001F0F
+t1401711630
+s7951
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.hpp
+c00000000538C6C0E0000000000000BED
+t1401711630
+s3053
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp
+c00000000538C6C0E000000000000275F
+t1401711630
+s10079
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.hpp
+c00000000538C6C0E00000000000010BF
+t1401711630
+s4287
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp
+c00000000538C6C0E0000000000001E7E
+t1401711630
+s7806
+
+N/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.hpp
+c00000000538C6C0E0000000000000CC6
+t1401711630
+s3270
+
+N/usr/local/include/opencv2/core/core.hpp
+c000000005347C0BE000000000002D7CC
+t1397211326
+s186316
+
+N/usr/local/include/opencv2/core/core_c.h
+c000000005347C0BE00000000000132A1
+t1397211326
+s78497
+
+N/usr/local/include/opencv2/core/mat.hpp
+c000000005347C0BE0000000000013AB1
+t1397211326
+s80561
+
+N/usr/local/include/opencv2/core/operations.hpp
+c000000005347C0BE00000000000202A9
+t1397211326
+s131753
+
+N/usr/local/include/opencv2/core/types_c.h
+c000000005347C0BE000000000000E080
+t1397211326
+s57472
+
+N/usr/local/include/opencv2/core/version.hpp
+c000000005347C0BE0000000000000BC5
+t1397211326
+s3013
+
+N/usr/local/include/opencv2/highgui/highgui.hpp
+c000000005347C0BE00000000000023CA
+t1397211326
+s9162
+
+N/usr/local/include/opencv2/highgui/highgui_c.h
+c000000005347C0BE0000000000006C83
+t1397211326
+s27779
+
+N/usr/local/include/opencv2/imgproc/imgproc.hpp
+c000000005347C0BE000000000000DBE5
+t1397211326
+s56293
+
+N/usr/local/include/opencv2/imgproc/types_c.h
+c000000005347C0BE0000000000004034
+t1397211326
+s16436
+
+N/usr/local/include/opencv2/objdetect/objdetect.hpp
+c000000005347C0BE00000000000095A1
+t1397211326
+s38305
+
+CBuild AST from /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp
+r0
+
+CBuild AST from /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp
+r0
+
+CBuild AST from /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp
+r0
+
+CBuild AST from /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp
+r0
+
+CBuild AST from /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8ae912b02590b941^740913b02590b941^---0#1#1#--18"Check dependencies36"591486A5-4987-4F87-AA33-DA8FBB5DDFA3-
+
+CCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s428877082.753551
+e428877083.989254
+r1
+xCompileC
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.o
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.hpp
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/core/core_c.h
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.hpp
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Compile /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp305"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.o opencv_hotshots/ft/face_detector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler77f7c01a2590b941^0340fd1b2590b941^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp0000000000000000^3071"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.o opencv_hotshots/ft/face_detector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/include -I/usr/local/include/opencv -I/usr/local/include -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources/x86_64 -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug -MMD -MT dependencies -MF /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.d --serialize-diagnostics /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.dia -c /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.cpp -o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_detector.o36"099486CE-2221-45E8-AFC8-2FB2199D5DB3-
+b76C4316B-630E-451B-B7D8-E0FC4B681F0F
+
+CCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s428877082.753764
+e428877084.068705
+r1
+xCompileC
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.o
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.hpp
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/core/core_c.h
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Compile /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp303"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.o opencv_hotshots/ft/face_tracker.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3a05c11a2590b941^0798111c2590b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp0000000000000000^3065"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.o opencv_hotshots/ft/face_tracker.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/include -I/usr/local/include/opencv -I/usr/local/include -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources/x86_64 -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug -MMD -MT dependencies -MF /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.d --serialize-diagnostics /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.dia -c /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.cpp -o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/face_tracker.o36"5E827032-CEF0-4811-9082-C7A062C4729C-
+b76C4316B-630E-451B-B7D8-E0FC4B681F0F
+
+CCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s428877082.754011
+e428877083.942298
+r1
+xCompileC
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.o
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.hpp
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp293"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.o opencv_hotshots/ft/ft_data.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb613c11a2590b941^933af11b2590b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp0000000000000000^3035"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.o opencv_hotshots/ft/ft_data.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/include -I/usr/local/include/opencv -I/usr/local/include -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources/x86_64 -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug -MMD -MT dependencies -MF /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.d --serialize-diagnostics /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.dia -c /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.cpp -o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft_data.o36"EE225FA9-A316-4D16-8BE1-4232E7C0E933-
+b76C4316B-630E-451B-B7D8-E0FC4B681F0F
+
+CCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s428877082.754174
+e428877084.003079
+r1
+xCompileC
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.o
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft_data.hpp
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/core/core_c.h
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/ft.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_detector.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/face_tracker.hpp
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp301"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.o opencv_hotshots/ft/patch_model.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler8d28c11a2590b941^03cc001c2590b941^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp0000000000000000^3059"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.o opencv_hotshots/ft/patch_model.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/include -I/usr/local/include/opencv -I/usr/local/include -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources/x86_64 -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug -MMD -MT dependencies -MF /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.d --serialize-diagnostics /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.dia -c /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/patch_model.cpp -o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/patch_model.o36"B1468302-BE11-4897-9F54-0D55C4AD9F4E-
+b76C4316B-630E-451B-B7D8-E0FC4B681F0F
+
+CCompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s428877082.754462
+e428877083.895797
+r1
+xCompileC
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.o
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp
+d/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.hpp
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/core/core_c.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp301"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.o opencv_hotshots/ft/shape_model.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb532c11a2590b941^3b52e51b2590b941^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp0000000000000000^3059"CompileC /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.o opencv_hotshots/ft/shape_model.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/include -I/usr/local/include/opencv -I/usr/local/include -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources/x86_64 -I/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug -MMD -MT dependencies -MF /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.d --serialize-diagnostics /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.dia -c /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/shape_model.cpp -o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/shape_model.o36"7385F18B-4391-4E6F-BCCF-E588E209E01D-
+b76C4316B-630E-451B-B7D8-E0FC4B681F0F
+
+CLibtool /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/libft.a normal x86_64
+s428877084.070470
+e428877084.095590
+r1
+xLibtool
+x/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/libft.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Libtool /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/libft.a normal x86_64137"Libtool /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/libft.a normal x86_649815121c2590b941^207c181c2590b941^---0#0#1#--961"Libtool /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/libft.a normal x86_64    cd /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug -filelist /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/build/opencv_hotshots/ft/OPENCV_HOTSHOTS.build/Debug/ft.build/Objects-normal/x86_64/ft.LinkFileList -o /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/Debug/libft.a36"D3FDEC6D-AD70-4483-9764-2D0C891DBDF6-
+b76C4316B-630E-451B-B7D8-E0FC4B681F0F
+

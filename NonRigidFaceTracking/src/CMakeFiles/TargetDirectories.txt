@@ -1,0 +1,11 @@
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/annotate.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/CMakeFiles/ft.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/train_face_detector.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/train_face_tracker.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/train_patch_model.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/train_shape_model.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/visualize_annotations.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/visualize_face_detector.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/visualize_face_tracker.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/visualize_patch_model.dir
+/Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/src/opencv_hotshots/ft/exe/CMakeFiles/visualize_shape_model.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar cr /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/libft.a  CMakeFiles/ft.dir/ft_data.cpp.o CMakeFiles/ft.dir/shape_model.cpp.o CMakeFiles/ft.dir/patch_model.cpp.o CMakeFiles/ft.dir/face_detector.cpp.o CMakeFiles/ft.dir/face_tracker.cpp.o
+/usr/bin/ranlib /Users/kezhenchen/Documents/openCV/code_MasteringOpenCV/code-master/Chapter6_NonRigidFaceTracking/lib/libft.a
